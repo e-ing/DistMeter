@@ -1,4 +1,9 @@
 # DistMeter
 The Hall sensor rangefinder
 Altium Designer 18
-All components is located in L1 library (Lib1 repository) 
+All components is located in L1 library (Lib1 repository)
+
+Простой бесконтактный измеритель расстояния на датччике холла.
+Может измерять  в диапазоне расстояний от магнита до датчика 1.. 50мм с точчностью 0.1мм.
+
+Удобен для измерения уровня жидкости, скорости вращения и других приложений, где требуется измерять положение труднодоступных элементов конструкции.
